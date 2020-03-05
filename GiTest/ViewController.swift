@@ -21,6 +21,8 @@ class ViewController: UIViewController {
         
         menberNum = 1
         
+        print(menberNum)
+        
     }
 
 
